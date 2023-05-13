@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
-
 ## 💫 About Me:
+
+<img align="right" alt="Coding" height="300" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
+
 <br> 😄 I'm a dedicated student and a passionate digital artist.<br>
 📚 Currently pursuing my Bachelor's in Computer Science Engineering.<br>
 🔭 I love tech and innovation.<br> 
