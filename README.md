@@ -18,8 +18,12 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-<br> 😄 I'm a dedicated student and a passionate digital artist.<br>Currently pursuing my Bachelor's in Computer Science Engineering.<br> 🔭 I love tech and innovation.<br> <img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
-🤔 Here to explore new stuff and ideas and gain experience.<br> 🌱 Live by "Work hard, Be Humble".<br> ⚡ Art name: Bebe Shannu<br>
+<img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
+<br> 😄 I'm a dedicated student and a passionate digital artist.<br>
+📚 Currently pursuing my Bachelor's in Computer Science Engineering.<br>
+🔭 I love tech and innovation.<br> 
+🤔 Here to explore new stuff and ideas and gain experience.<br> 
+🌱 Live by "Work hard, Be Humble".<br> ⚡ Art name: Bebe Shannu<br>
 
 
 ## 🌐 Socials:
