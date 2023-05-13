@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="1000" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/4.gif">
+<img align="top" alt="Coding" width="1000" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/4.gif"><br>
 
 ## Hey there! I'm Shaina Jyothica. 👋
 
