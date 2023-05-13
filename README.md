@@ -1,6 +1,6 @@
 <img align="top" alt="Coding" width="1000" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/4.gif">
 
-### Hey there! I'm Shaina Jyothica. 👋
+# Hey there! I'm Shaina Jyothica. 👋
 
 <!--
 **bebeshannu/bebeshannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
-# 💫 About Me:
 
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
 <br> 😄 I'm a dedicated student and a passionate digital artist.<br>
 📚 Currently pursuing my Bachelor's in Computer Science Engineering.<br>
 🔭 I love tech and innovation.<br> 
