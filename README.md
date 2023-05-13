@@ -1,6 +1,6 @@
 <img align="top" alt="Coding" width="1000" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/4.gif"><br>
+<p><h1><center>Hey there! I'm Shaina Jyothica👋</center></h1></p><br>
 
-## Hey there! I'm Shaina Jyothica. 👋
 
 <!--
 **bebeshannu/bebeshannu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
