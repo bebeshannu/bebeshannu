@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="600" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/4.gif">
+<img align="top" alt="Coding" width="1000" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/4.gif">
 
 ### Hey there! I'm Shaina Jyothica. 👋
 
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <br> 😄 I'm a dedicated student and a passionate digital artist.<br>Currently pursuing my Bachelor's in Computer Science Engineering.<br> 🔭 I love tech and innovation.<br> <img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
 🤔 Here to explore new stuff and ideas and gain experience.<br> 🌱 Live by "Work hard, Be Humble".<br> ⚡ Art name: Bebe Shannu<br>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shainajyothica ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shainajyothica/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/bebe_shannu) 
