@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 <img align="right" alt="Coding" width="400" src="https://github.com/bebeshannu/bebeshannu/blob/main/Sources/Study.gif">
+
 ## 💫 About Me:
 <br> 😄 I'm a dedicated student and a passionate digital artist.<br>
 📚 Currently pursuing my Bachelor's in Computer Science Engineering.<br>
